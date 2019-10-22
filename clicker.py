@@ -16,7 +16,7 @@ with Listener(on_press=on_press_start) as listener:
 with Listener(on_press=on_press_loop) as listener:
     BOARD = Controller()
     time.sleep(5)
-    for _ in range(50):
+    while True:
         print('still running...')
         BOARD.press(Key.space)
         BOARD.release(Key.space)
