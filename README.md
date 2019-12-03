@@ -1,8 +1,8 @@
 #JUST A PROGRAM TO AUTOCLICK SPACEBAR
 
-I created it to help me with the selection of my teachers on school
+I created this script to help me with the selection of my teachers on school
 
-Im using Pynput
+Im using Pynput to control keypressing
 
-F12 to start
+SpaceBar to start
 ESC to end
