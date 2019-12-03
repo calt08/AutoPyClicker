@@ -1,4 +1,5 @@
-#JUST A PROGRAM TO AUTOCLICK SPACEBAR
+# AutoPyClicker
+### JUST A PROGRAM TO AUTOCLICK SPACEBAR
 
 I created this script to help me with the selection of my teachers on school
 
