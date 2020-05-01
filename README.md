@@ -7,7 +7,7 @@ When you press the SpaceBar for the first time after you run the Script it start
 I'm using Pynput library to control key pressing
 
 #### Instructions
-- * You need to install python and Pynput library *
+- __You need to install python and Pynput library__
 - Run the script
 - SpaceBar to start
 - ESC to end
