@@ -10,5 +10,7 @@ I'm using Pynput library to control key pressing
 You need to install python and Pynput library
 
 Run the script
+
 SpaceBar to start
+
 ESC to end
